@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="assets/photo_2026-04-19_23-00-11.jpg" width="800"/>
+  <img src="assets/bunner.jpg" width="800"/>
 </p>
 
 ---
