@@ -5,8 +5,6 @@
 
 ## What you can find in this repo:
 
----
-
 -Config
 
 -Video settings
