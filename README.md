@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="assets/bunner.jpg" width="800"/>
+  <img src="assets/bunner.jpg" width="500"/>
 </p>
 
 ---
